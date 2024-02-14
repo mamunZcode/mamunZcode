@@ -1,9 +1,10 @@
-![logo](https://github.com/mamunZcode/mamunZcode/blob/main/profilee.png)
+![logo](https://github.com/mamunZcode/mamunZcode/blob/main/profile.png)
 
 <h1 align="center">Hi 👋, I'm MD.Muntasir Mamun</h1>
+
 <h3 align="center">A passionate Flutter developer from Bangladesh</h3>
 
-<img align="right" alt="coading" width="400" src="https://github.com/mamunZcode/mamunZcode/blob/main/SUV4.gif" />
+<img align="right" alt="coading" width="380" src="https://github.com/mamunZcode/mamunZcode/blob/main/SUV4.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamunzcode&label=Profile%20views&color=0e75b6&style=flat" alt="mamunzcode" /> </p>
 
