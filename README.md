@@ -33,4 +33,4 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mamunzcode&show_icons=true&locale=en" alt="mamunzcode" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mamunzcode&" alt="mamunzcode" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mamunzcode&" alt="mamunzcode" /></p>
